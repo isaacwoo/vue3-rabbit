@@ -15,11 +15,6 @@ import HomePanel from './components/HomePanel.vue'
   <HomeNew />
   <HomeHot />
   <homeProduct />
-  <HomePanel title="new" sub-title="sub new">
-    <div>
-        content new
-    </div>
-  </HomePanel>
   <HomePanel title="hot" sub-title="sub hot">
     <div>
         content hot
